@@ -1,2 +1,2 @@
-# ios
-ios apps
+# Apple pie word guessing game
+
